@@ -1,3 +1,4 @@
+# taskflow
 # TaskFlow AI
 
 A full-stack project management and issue tracker with a liquid-glass React interface, FastAPI, PostgreSQL, JWT authentication, and optional local AI through Ollama.
